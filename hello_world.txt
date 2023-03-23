@@ -1,4 +1,5 @@
 edit: what's up?
 git commit test
 git commit test with -m
-edit: can commit without -m
+edit: can commit without -m ex. git commit (press enter)
+edit: can commit with -m <message> ex. git commit -m hello_world.txt (press enter)
