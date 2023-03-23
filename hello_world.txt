@@ -1,3 +1,4 @@
 edit: what's up?
 git commit test
 git commit test with -m
+edit: can commit without -m
